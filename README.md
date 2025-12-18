@@ -4,8 +4,11 @@
 
 ### I'm fancub FS team game Valorant
 
+<<<<<<< HEAD
 1. PRX Team no.1 in valorant game
 2. EG 2023 on fire
 
+=======
+>>>>>>> test-branch
 * test topic
 * test second topic
