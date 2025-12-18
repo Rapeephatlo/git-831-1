@@ -2,4 +2,4 @@
 
 ## My name is Rapeephat Lorsong
 
-### I'm Fan game supporter.
+### I'm fancub FS team game Valorant
