@@ -1,10 +1,10 @@
-### Hi, I'm @nitipoomph-coder👋
+### Hi, I'm @rapeephatlo-coder👋
 
 * 💡 I'm interested in **Software Development and Interaction Design**.
 * 💻 I'm currently developing a **full-stack Wedding Management System**.
 * 🌱 I'm focused on learning **Web and Mobile development frameworks used in this project**.
 * 🤝 I'm looking to collaborate on **open-source projects**.
-* 📧 How to reach me >> **nitipoom.ph@ku.th** 
+* 📧 How to reach me >> **rapeephat.lo@ku.th** 
 
 ## 🛠️ Languages and Tools
 
